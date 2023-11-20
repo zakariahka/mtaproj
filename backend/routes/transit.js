@@ -1,4 +1,3 @@
-// Backend code in transit.js
 const express = require('express');
 const transitRouter = express.Router();
 const GtfsRealtimeBindings = require('gtfs-realtime-bindings');
